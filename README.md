@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is for CRUD operation using Ruby on Rails
+1. Installed Ruby
+2. Installed Rails
+3. Installed related dependencies like yarn,node.js etc
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Note:- This application is developed by using "scaffold". It provides basic templates for crud operations. 
